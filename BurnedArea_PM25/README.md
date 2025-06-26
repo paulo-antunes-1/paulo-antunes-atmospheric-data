@@ -36,7 +36,7 @@ This notebook contains a detailed exploratory analysis of fire activity in Brazi
 - FRP data from bdqueimadas from INPE 
 - Brazilian spatial boundaries (states and municipalities)
 
-## 📌 Note
+##  Note
 
 This analysis is part of a broader project investigating the relationship between biomass burning and air quality impacts in Brazil.
 
